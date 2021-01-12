@@ -72,7 +72,7 @@ namespace Fischer.AzureDevOps.StdNetSolution.TestHarness
             this.txtProjectPAToken.Name = "txtProjectPAToken";
             this.txtProjectPAToken.Size = new System.Drawing.Size(451, 22);
             this.txtProjectPAToken.TabIndex = 6;
-            this.txtProjectPAToken.Text = "z6ompgpmhkd43yrcxj2pmo3lemszr5nkd3q37e3wzkoddkaoftqq";
+            this.txtProjectPAToken.Text = "<add personal access token here>";
             // 
             // label1
             // 
@@ -98,7 +98,7 @@ namespace Fischer.AzureDevOps.StdNetSolution.TestHarness
             this.txtProjectURI.Name = "txtProjectURI";
             this.txtProjectURI.Size = new System.Drawing.Size(451, 22);
             this.txtProjectURI.TabIndex = 4;
-            this.txtProjectURI.Text = "https://dev.azure.com/zfischer";
+            this.txtProjectURI.Text = "<add URI here>";
             // 
             // btnClose
             // 
